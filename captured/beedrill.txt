@@ -1,0 +1,3 @@
+SELECT *
+FROM forest
+WHERE name LIKE '%beed' AND name LIKE 'rill%';
